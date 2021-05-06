@@ -108,14 +108,14 @@ On the folder, you will find <b>6 documents: </b>
       - Number of movies produced by year (Genre comparison):
         An interactive scatter plot that allows the user to choose two genres and analyze the evolution of     the number of movies produced by year, for the two corresponding genres.
 <br>
-          - Average rating per movie genre, per year:
-              An interactive bar chart in which the user selects the year, and visualizes the average rating of the movies per genre, for that particular year.
+      - Average rating per movie genre, per year:
+        An interactive bar chart in which the user selects the year, and visualizes the average rating of the movies per genre, for that particular year.
 <br>
-          - Movie rating evolution per actor/actress - Average Rating:
-              A combination of a bar chart and a scatter plot to analyze the average rating of the movies in which a particular actor/actress worked on. By choosing an actor/actress, the user will se a bar chart with the overall average rating of the movies for him/her and a scatter plot with the evolution of the movie ratings through the years.
+      - Movie rating evolution per actor/actress - Average Rating:
+        A combination of a bar chart and a scatter plot to analyze the average rating of the movies in which a particular actor/actress worked on. By choosing an actor/actress, the user will se a bar chart with the overall average rating of the movies for him/her and a scatter plot with the evolution of the movie ratings through the years.
 <br>
-          - Versatility indicator:
-              The last visualization is an interactive indicator to analyze the versatility of an actor/actress. To do so, an indicator of versatility was developed (further details on the corresponding notebook).
+      - Versatility indicator:
+        The last visualization is an interactive indicator to analyze the versatility of an actor/actress. To do so, an indicator of versatility was developed (further details on the corresponding notebook).
       
   - <b><i>Rating_prediction.ipynb</i></b> : a jupyter notebook to develop prediction of the ratings based on movie features.
   
