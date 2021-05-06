@@ -106,8 +106,8 @@ On the folder, you will find <b>6 documents: </b>
               A scatter plot with the evolution of the total number of movies produced on each year.
               <br>
       - Number of movies produced by year (Genre comparison):
-        An interactive scatter plot that allows the user to choose two genres and analyze the evolution of     the number of movies produced by year, for the two corresponding genres.
-<br>
+              An interactive scatter plot that allows the user to choose two genres and analyze the evolution of     the number of movies produced by year, for the two corresponding genres.
+              <br>
       - Average rating per movie genre, per year:
         An interactive bar chart in which the user selects the year, and visualizes the average rating of the movies per genre, for that particular year.
 <br>
