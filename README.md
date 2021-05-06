@@ -4,9 +4,9 @@
 
 ### Group 1:
 
-    - André Viana - l54543 - andreviana@aln.iseg.ulisboa.pt
-    - Gonçalo Duarte - l48505 - goncaloduarte@aln.iseg.ulisboa.pt
-    - José Cabral - l54997 - l54997@aln.iseg.ulisboa.pt
+   - André Viana - l54543 - andreviana@aln.iseg.ulisboa.pt
+   - Gonçalo Duarte - l48505 - goncaloduarte@aln.iseg.ulisboa.pt
+   - José Cabral - l54997 - l54997@aln.iseg.ulisboa.pt
 <br>
 
 Masters Data Analytics for Business - ISEG - University of Lisbon
@@ -33,7 +33,7 @@ To develop this project, we worked with <b>5 IMDb data sets </b>, regarding movi
         - <i>runtimeMinutes</i> : movie duration, in minutes;
         - <i>genres</i> : which genres are associated with the movie (does not have to have only one genre, can store multiple separated by commas (ex: Action,Drama)
 
-    Note that this data set also includes data regarding series, not only movies, but only movies' data were considered for this project.
+   Note that this data set also includes data regarding series, not only movies, but only movies' data were considered for this project.
     
  link for data set download: https://datasets.imdbws.com/title.basics.tsv.gz
 
@@ -123,12 +123,13 @@ On the folder, you will find <b>7 documents: </b>
   - <b><i>Rating_prediction.ipynb</i></b> : a jupyter notebook to develop prediction of the ratings based on movie features.
   
   To predict the rating of a movie, the following models were tested:
-          - Linear Regression model;
-          - Ridge model (alpha = 0.5);
-          - Lasso Model (alpha = 0.5);
-          - Bayesian Ridge;
-          - Neural Network;
-          - Keras model.
+  
+   - Linear Regression model;
+   - Ridge model (alpha = 0.5);
+   - Lasso Model (alpha = 0.5);
+   - Bayesian Ridge;
+   - Neural Network;
+   - Keras model.
   
   All the information and details regarding the development of the models is available on the correspondent notebook.
   
