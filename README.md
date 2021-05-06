@@ -123,13 +123,13 @@ On the folder, you will find <b>7 documents: </b>
   - <b><i>Rating_prediction.ipynb</i></b> : a jupyter notebook to develop prediction of the ratings based on movie features.
   
   To predict the rating of a movie, the following models were tested:
-  
-   - Linear Regression model;
-   - Ridge model (alpha = 0.5);
-   - Lasso Model (alpha = 0.5);
-   - Bayesian Ridge;
-   - Neural Network;
-   - Keras model.
+       <br>
+       - Linear Regression model;
+      - Ridge model (alpha = 0.5);
+      - Lasso Model (alpha = 0.5);
+      - Bayesian Ridge;
+      - Neural Network;
+      - Keras model.
   
   All the information and details regarding the development of the models is available on the correspondent notebook.
   
