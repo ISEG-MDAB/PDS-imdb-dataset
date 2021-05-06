@@ -125,11 +125,17 @@ On the folder, you will find <b>7 documents: </b>
   To predict the rating of a movie, the following models were tested:
        <br>
        - Linear Regression model;
-      - Ridge model (alpha = 0.5);
-      - Lasso Model (alpha = 0.5);
-      - Bayesian Ridge;
-      - Neural Network;
-      - Keras model.
+       <br>
+       - Ridge model (alpha = 0.5);
+       <br>
+       - Lasso Model (alpha = 0.5);
+       <br>
+       - Bayesian Ridge;
+       <br>
+       - Neural Network;
+       <br>
+       - Keras model.
+       <br>
   
   All the information and details regarding the development of the models is available on the correspondent notebook.
   
