@@ -101,6 +101,7 @@ On the folder, you will find <b>6 documents: </b>
   - <b><i>movie_ratings_visualization.ipynb</i></b> : a jupyter notebook to visualize and describe the data.
   
       Five different charts are presented:
+      <br>
            - Total number of movies produced by year:
               A scatter plot with the evolution of the total number of movies produced on each year.
               <br>
