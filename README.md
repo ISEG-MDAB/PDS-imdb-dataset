@@ -142,6 +142,7 @@ On the folder, you will find <b>6 documents: </b>
   - <b><i>Computer_Vision.ipynb</i></b> : on the final notebook of this project, you will find a short approach to computer vision applied to the IMDb data base. 
   
   On this stage of the project, we aimed at developing a process in two phases:
+      <br>
       - 1st: reading the front cover of a movie and identifying the title through the image;
       - 2nd: automaticlly searching on the IMDb data based by the movie name obtained at stage 1.
       
