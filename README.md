@@ -90,7 +90,10 @@ To develop this project, we worked with <b>5 IMDb data sets </b>, regarding movi
 ## Project Description
 
 
-On the folder, you will find <b>6 documents: </b> 
+On the folder, you will find <b>7 documents: </b> 
+
+  - <b><i>ProjectStatement.pdf</i></b> : Professor's statement on the requisites of the project;
+  
 
   - <b><i>README.html</i></b> : this document describing all data sets used and what was developed in the project;
   
