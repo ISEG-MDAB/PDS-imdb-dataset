@@ -131,9 +131,9 @@ On the folder, you will find <b>6 documents: </b>
   
   For further research on the models' properties, all documentation is available at: 
   
-      - https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html <i>(Linear Regression models)</i>
+ - https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html <i>(Linear Regression models)</i>
       
-      - https://www.tensorflow.org/api_docs/python/tf/keras/Sequential <i>(Keras model)</i>
+ - https://www.tensorflow.org/api_docs/python/tf/keras/Sequential <i>(Keras model)</i>
   
   <i>Disclaimer : </i> Due to the big volume of data on these data sets, the rating prediction models were developed using movie data for movies produced in 2020 and 2021.
   
