@@ -95,7 +95,7 @@ On the folder, you will find <b>7 documents: </b>
   - <b><i>ProjectStatement.pdf</i></b> : Professor's statement on the requisites of the project;
   
 
-  - <b><i>README.html</i></b> : this document describing all data sets used and what was developed in the project;
+  - <b><i>README.md</i></b> : this document describing all data sets used and what was developed in the project;
   
   
   - <b><i>data_filtering.ipynb</i></b> : a jupyter notebook to prepare and filter the data for further analysis. You can find all the code and process description on the notebook.
