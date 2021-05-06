@@ -129,13 +129,13 @@ On the folder, you will find <b>7 documents: </b>
       - Ridge model (alpha = 0.5);
          <br>
       - Lasso Model (alpha = 0.5);
-      <br>
+         <br>
       - Bayesian Ridge;
-      <br>
+         <br>
       - Neural Network;
-      <br>
+         <br>
       - Keras model.
-      <br>
+         <br>
   
   All the information and details regarding the development of the models is available on the correspondent notebook.
   
