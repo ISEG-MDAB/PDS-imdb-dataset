@@ -101,10 +101,9 @@ On the folder, you will find <b>6 documents: </b>
   - <b><i>movie_ratings_visualization.ipynb</i></b> : a jupyter notebook to visualize and describe the data.
   
       Five different charts are presented:
-          
-          - Total number of movies produced by year:
+           - Total number of movies produced by year:
               A scatter plot with the evolution of the total number of movies produced on each year.
-
+              <br>
           - Number of movies produced by year (Genre comparison):
               An interactive scatter plot that allows the user to choose two genres and analyze the evolution of     the number of movies produced by year, for the two corresponding genres.
 
