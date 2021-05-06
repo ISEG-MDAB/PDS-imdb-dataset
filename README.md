@@ -125,9 +125,9 @@ On the folder, you will find <b>7 documents: </b>
       To predict the rating of a movie, the following models were tested:
       <br>
       - Linear Regression model;
-      <br>
+         <br>
       - Ridge model (alpha = 0.5);
-      <br>
+         <br>
       - Lasso Model (alpha = 0.5);
       <br>
       - Bayesian Ridge;
